@@ -52,13 +52,6 @@ python nome_do_arquivo.py
 - Faça um depósito (`d`) e, em seguida, um saque (`s`)
 - Veja o extrato com (`e`)
 
-## 📦 Requisitos
-
-- Python 3.7+
-- (Opcional) [`rich`](https://github.com/Textualize/rich) para uma interface colorida:
-  ```bash
-  pip install rich
-  ```
 
 ## 📁 Estrutura sugerida
 
@@ -80,11 +73,3 @@ sistema_bancario/
 - Interface gráfica (Tkinter ou PyQt)
 - Armazenamento em arquivo ou banco de dados
 - Autenticação de usuário
-
-## 🧑‍💻 Autor
-
-Desenvolvido por [Seu Nome Aqui] – sinta-se livre para modificar e evoluir o projeto.
-
----
-
-Feito com ❤️ em Python.
